@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141870818468",
+    "project_id": "ehunterfire",
+    "storage_bucket": "ehunterfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141870818468:android:9b78969cf202a0c50a7231",
+        "android_client_info": {
+          "package_name": "com.example.dineoption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ZiixPBgNIdacIrmJnm3CQ-qYb0Sp2z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141870818468:android:492fb74d6366c5ff0a7231",
+        "android_client_info": {
+          "package_name": "com.example.firebasefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ZiixPBgNIdacIrmJnm3CQ-qYb0Sp2z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
